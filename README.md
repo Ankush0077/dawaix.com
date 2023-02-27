@@ -1,2 +1,2 @@
-# dawaix_website
-It is the website of DawaiX in ReactJS
+# dawaix.com
+It is the website of DawaiX.com in ReactJS
